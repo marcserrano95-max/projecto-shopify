@@ -1,0 +1,13 @@
+# Archivos multimedia pesados: no se suben a git
+*.mp4
+*.mov
+*.mp3
+*.wav
+*.m4a
+proyectos/*/entrada/*
+proyectos/*/clips/*
+proyectos/*/audio/*
+proyectos/*/salida/*
+!proyectos/*/*/.gitkeep
+.env
+.DS_Store

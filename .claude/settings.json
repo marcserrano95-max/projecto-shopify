@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ffmpeg:*)",
+      "Bash(ffprobe:*)",
+      "Bash(scripts/render.sh:*)",
+      "Bash(scripts/extraer-fotogramas.sh:*)",
+      "Bash(cp -r proyectos/_plantilla:*)"
+    ]
+  }
+}
