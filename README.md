@@ -50,7 +50,7 @@ ffmpeg -version
 
 ## Paso 2 — Descargar este proyecto
 ```bash
-git clone https://github.com/marcserrano95-max/projecto-shopify.git
+git clone -b claude/dropshipping-viral-video-replication-c0vkhe https://github.com/marcserrano95-max/projecto-shopify.git
 cd projecto-shopify
 ```
 
